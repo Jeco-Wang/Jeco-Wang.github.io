@@ -1,4 +1,4 @@
-## The url is: jeco-wang.github.io
+## The url is: <a href="jeco-wang.github.io">jeco-wang.github.io</a>
 ### I use this GitHub page to practise the web development skills I learnt
 
 <p>
