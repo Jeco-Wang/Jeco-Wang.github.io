@@ -2,7 +2,7 @@
 ### I use this GitHub page to practise the web development skills I learnt
 
 <p>
-  <strong>Note:</strong> After creating the Jeco-Wang.github.io repo, you
+  <strong>Note:</strong> After creating the "<strong>Jeco-Wang.github.io</strong>" repo, I
   need to change the publishing source to "main" by going to <strong><em>Settings -
   Github Pages - Select branch - main</em></strong>. Follow the
   <a
